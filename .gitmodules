@@ -1,0 +1,3 @@
+[submodule "projeto-simples-monitoramentoDeSites"]
+	path = projeto-simples-monitoramentoDeSites
+	url = https://github.com/JoseDanielGS/entendendo-GO.git
